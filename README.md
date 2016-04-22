@@ -8,12 +8,12 @@
 
 ### 1.  安装node组件包
 
-```javascript
+```sh
     npm install 
 ```
 ### 2.  启动应用
 
-```javascript
+```sh
     npm start
 ```
 ### 3.  打开浏览器查看应用
